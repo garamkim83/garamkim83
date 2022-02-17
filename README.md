@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Garam Kim
-- 👀 I’m interested in IoT and game engines
-- 🌱 I’m currently learning Python and I've learned C a little
-- 💻 I’m a freshman in computer science & engineering at the university
+- 👀 I’m interested in making apps and IoT
+- 🌱 I’m currently learning Dart and Flutter and I've learned C and Python a little
+- 💻 I’m a sophomore in computer science & engineering at the university
 - 🌍 I live in Gyeonggi-do, Korea
 - 📫 If you want to reach me, just send me an e-mail
 
