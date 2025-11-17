@@ -35,8 +35,7 @@ My current focus is to **bridge the gap** between robust **systems implementatio
 
 #### 🚗 Automotive Software Engineer – Autonomous Parking
 * **[Company name hidden due to NDA]** (Mar 2025 – Present)
-* C++ developer at an SI company working on a **Tier-1 automotive supplier’s** autonomous parking project (Qualcomm SoC).
-* Work as an external engineering partner (SI) for a Tier-1 automotive supplier’s autonomous parking project (Qualcomm and Renesas SoC).
+* C++ developer at an SI company, working as an external engineering partner on a Tier-1 automotive supplier’s autonomous parking project (Qualcomm / Renesas SoCs).
 * Implement and optimize perception and planning-related algorithms in C++ on embedded targets.
 * Design and debug multi-threaded pipelines under real-time and memory constraints.  
 * *(Note: Code is proprietary and not available on GitHub due to NDA.)*
