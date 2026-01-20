@@ -4,6 +4,14 @@
 
 ---
 
+
+### 📫 Contact
+
+* **Email:** [garamk83@gmail.com](garamk83@gmail.com)
+* **LinkedIn:** [www.linkedin.com/in/garam-kim-kr](www.linkedin.com/in/garam-kim-kr)
+
+---
+
 ## 🚀 Software Engineer – Robotics, Automotive & Embedded AI
 
 I am a software engineer specializing in building complex, high-performance systems for robotics and autonomous vehicles.
@@ -84,11 +92,6 @@ My current focus is to **bridge the gap** between robust **systems implementatio
   * **Key Courses:** Data Structures, Operating Systems, Computer Networks, Robot Programming, Introduction to the Internet of Things, Discrete Mathematics, Linear Algebra
 
 ---
-
-### 📫 Contact
-
-* **Email:** `garamk83@gmail.com`
-* **LinkedIn:** `www.linkedin.com/in/garam-kim-kr`
 
 <!---
 [![Garam's GitHub stats](https://github-readme-stats.vercel.app/api?username=garamkim83&show_icons=true&theme=radical)](https://github.com/garamkim83)
