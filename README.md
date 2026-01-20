@@ -7,8 +7,8 @@
 
 ### 📫 Contact
 
-* **Email:** [garamk83@gmail.com](garamk83@gmail.com)
-* **LinkedIn:** [www.linkedin.com/in/garam-kim-kr](www.linkedin.com/in/garam-kim-kr)
+* **Email:** [garamk83@gmail.com](mailto:garamk83@gmail.com)
+* **LinkedIn:** [www.linkedin.com/in/garam-kim-kr](http://www.linkedin.com/in/garam-kim-kr)
 
 ---
 
