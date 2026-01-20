@@ -88,7 +88,7 @@ My current focus is to **bridge the gap** between robust **systems implementatio
 ### 📫 Contact
 
 * **Email:** `garamk83@gmail.com`
-* **LinkedIn:** *(to be added)*
+* **LinkedIn:** `www.linkedin.com/in/garam-kim-kr`
 
 <!---
 [![Garam's GitHub stats](https://github-readme-stats.vercel.app/api?username=garamkim83&show_icons=true&theme=radical)](https://github.com/garamkim83)
